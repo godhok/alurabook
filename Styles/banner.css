@@ -30,7 +30,7 @@
   font-size: 14px;
   text-align: center;
   color: var(--branco);
-  background: url(../assets/Lupa.svg) no-repeat;
+  background: url(/assets/Lupa.svg) no-repeat;
   background-position: 1em;
 }
 
@@ -61,4 +61,3 @@
     padding: 6em 0;
   }
 }
-
